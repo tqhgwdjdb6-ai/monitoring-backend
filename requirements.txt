@@ -1,8 +1,9 @@
 Flask==2.3.3
 Flask-CORS==4.0.0
 requests==2.31.0
-pandas==2.0.3
-numpy==1.24.3
-scipy==1.11.1
-gunicorn==20.1.0
+pandas==2.1.4
+numpy==1.26.2
+scipy==1.11.4
+gunicorn==21.2.0
 python-dotenv==1.0.0
+setuptools==69.0.3
